@@ -7,7 +7,7 @@ description: Learn how to use Github classroom to complete coding assignments
 
 # Github Classroom
 
-In this article you will learn how to use GitHub classroom to complete coding assignments.
+In this article, you will learn how to use GitHub classroom to complete coding assignments.
 
 ## Create a Github Account
 
@@ -16,7 +16,7 @@ In this article you will learn how to use GitHub classroom to complete coding as
 
 ## Accepting an Assignment
 
-- You will be provided with a link to accept the assignment on Github classroom
+- You will be provided with a link by your Assessor to accept the assignment on Github classroom
 - Open the link in a web browser
 - In GitHub Classroom, click on the button to 'Accept this assignment'
 - Refresh the page and click on the link to view your assignment repository
@@ -25,7 +25,7 @@ In this article you will learn how to use GitHub classroom to complete coding as
 
 - Open Visual Studio on your desktop PC
 - In the 'Get started' page, click the 'Clone a repository' selection
-- In the online GitHub assignment repository, click on the 'Code' button in GitHub and copy the 'Clone' section copy the 'HTTPS' link
+- In the online GitHub assignment repository, click on the 'Code' button in GitHub in the 'Clone' section copy the 'HTTPS' link
 - In Visual Studio, copy the link into the 'Repository location' text box 
 - Create a local path on your desktop PC to save your cloned repository, and select it in the 'Path' text box in Visual Studio
 - Click the 'Clone' button when you are done

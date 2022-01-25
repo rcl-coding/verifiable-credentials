@@ -24,7 +24,7 @@ A role an entity performs by receiving one or more verifiable credentials, optio
 
 ## ION
 
-Our verifiable credentials uses the [ION](https://didproject.azurewebsites.net/docs/ion-sidetree.html) method. ION is a is a public, permissionless, Decentralized Identifier (DID) network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a 'Layer 2' overlay). ION anchors verifiable credentials in the Bitcoin block chain. This ensures the verifiable credentials are crytographically secure, tamper proof and immutable (cannot be changed once created).
+Our verifiable credentials use the [ION](https://didproject.azurewebsites.net/docs/ion-sidetree.html) method. ION is a is a public, permissionless, Decentralized Identifier (DID) network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a 'Layer 2' overlay). ION anchors verifiable credentials in the Bitcoin block chain. This ensures the verifiable credentials are crytographically secure, tamper proof and immutable (cannot be changed once created). This prevents fraudulent activities or hacking a verifiable credential.
 
 ## Microsoft Active Directory Verifiable Credentials
 
@@ -32,7 +32,7 @@ Our verifiable credentials uses the [ION](https://didproject.azurewebsites.net/d
 
 ## Mobile Wallet Application
 
-Our verifiable credentials are stored in the [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) mobile application. Holders will claim, download and install verifiable credentials in the app. Holders will also use the app to display their credentials to verifiers
+Our verifiable credentials are stored in the [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) mobile application. Holders will claim, download and install verifiable credentials in the app. Holders will also use the app to display their credentials to verifiers.
 
 
 
