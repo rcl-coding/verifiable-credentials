@@ -1,7 +1,6 @@
 ---
 title: Introduction
 description: Verifiable Credentials
-has_children: true
 nav_order: 1
 ---
 

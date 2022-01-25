@@ -1,6 +1,6 @@
 ---
 title: Basic Coding with C#
-parent: Verifiable Credentials
+parent: Credentials
 nav_order: 1
 description: Write basic code with C# types and statements
 ---
