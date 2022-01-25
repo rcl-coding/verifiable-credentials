@@ -12,15 +12,15 @@ nav_order: 1
 
 ### Holder
 
-A role an entity might perform by possessing one or more verifiable credentials and generating verifiable presentations from them. Example holders include students.
+A role an entity might perform by possessing one or more verifiable credentials and generating verifiable presentations from them to present to a verifier. Example holders include : students.
 
 ### Issuer
 
-A role an entity performs by asserting claims about one or more subjects, creating a verifiable credential from these claims, and transmitting the verifiable credential to a holder. Example issuers include educators.
+A role an entity performs by asserting claims about one or more subjects, creating a verifiable credential from these claims, and transmitting the verifiable credential to a holder. Example issuers include : educators.
 
 ### Verifier
 
-A role an entity performs by receiving one or more verifiable credentials, optionally inside a verifiable presentation, for processing. Example verifiers include employers.
+A role an entity performs by receiving one or more verifiable credentials, optionally inside a verifiable presentation, for processing and validating. Example verifiers include : employers.
 
 ## ION
 
