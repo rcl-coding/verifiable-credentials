@@ -25,7 +25,7 @@ In this article, you will learn how to use GitHub classroom to complete coding a
 
 - Open Visual Studio on your desktop PC
 - In the 'Get started' page, click the 'Clone a repository' selection
-- In the online GitHub assignment repository, click on the 'Code' button in GitHub in the 'Clone' section copy the 'HTTPS' link
+- In the online GitHub assignment repository, click on the 'Code' button and in the 'Clone' section copy the 'HTTPS' link
 - In Visual Studio, copy the link into the 'Repository location' text box 
 - Create a local path on your desktop PC to save your cloned repository, and select it in the 'Path' text box in Visual Studio
 - Click the 'Clone' button when you are done
@@ -40,7 +40,7 @@ In this article, you will learn how to use GitHub classroom to complete coding a
 
 - In the Visual Studio solution, add your code to complete the assignment
 - In the Visual Studio 'Git Changes' tab, enter a comment for your commit, then click the 'Commit All' link
-- Use the 'circle' con to sync the commit with your online remote GitHub assignment repository
+- Use the 'circle' icon to sync the commit with your online remote GitHub assignment repository
 - Verify, your commit is saved online on GitHub by opening the solution folder in the GitHub assignment repository and checking your file changes
 - If you make additional changes to your code, you can make multiple commits
 
