@@ -1,6 +1,6 @@
 ---
 title: GitHub Classroom
-parent: Verifiable Credentials
+has_children: false
 nav_order: 2
 description: Learn how to use Github classroom to complete coding assignments
 ---
