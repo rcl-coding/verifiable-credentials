@@ -7,7 +7,7 @@ description: Learn how to use Github classroom to complete coding assignments
 
 # Github Classroom
 
-In this article, you will learn how to use GitHub classroom to complete coding assignments.
+In this article, you will learn how to use GitHub classroom to complete coding assignments to earn verifiable credentials.
 
 ## Create a Github Account
 
