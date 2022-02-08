@@ -68,21 +68,46 @@ In this article, you will learn how to use GitHub classroom to complete coding a
 
 ## Completing the Assignment in Visual Studio
 
-- In the Visual Studio solution, add your code to complete the assignment
+- In the Visual Studio solution, write and build your code to complete the assignment
+
+![Accept Assignment](/images/assignment_submit.png)
+
 - In the Visual Studio 'Git Changes' tab, enter a comment for your commit, then click the 'Commit All' link
+
+![Accept Assignment](/images/assignment_submit-2.png)
+
 - Use the 'circle' icon to sync the commit with your online remote GitHub assignment repository
+
+![Accept Assignment](/images/assignment_submit-3.png)
+
 - Verify, your commit is saved online on GitHub by opening the solution folder in the GitHub assignment repository and checking your file changes
+
+![Accept Assignment](/images/assignment_submit-4.png)
+
 - If you make additional changes to your code, you can make multiple commits
 
 ## Submit your Complete Assignment
 
 - When you have complete your assignment, open the online assignment repository on GitHub
+
 - In the GitHub assignment repository, click on the 'Pull requests' link
+
 - Open the 'Feedback' pull request
+
+![Accept Assignment](/images/assignment_submit-5.png)
+
 - In the 'Comments' section, type 'Assignment Completed' and click the 'Comment' button
+
+![Accept Assignment](/images/assignment_submit-6.png)
+
 - Your will receive feedback on your submitted assignment
+
 - You can carry out a discussion with your assessor in the Pull Request comments section
+
+- The pull request will be closed by your assessor when you achieve the credential
+
+![Accept Assignment](/images/assignment_submit-7.png)
 
 ## Seeking Clarification from your Assessor
 
-- You can use the 'Feedback' Pull Request comments section to seek clarification from your assessor on the assignment
+- You can use the 'Feedback' Pull Request comments section to seek clarification from your assessor on the assignment or your assessments
