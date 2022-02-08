@@ -1,40 +1,31 @@
 ---
-title: Basic Coding with C#
+title: Object Oriented Programming with C#
 parent: Credentials
-nav_order: 1
-description: Write basic code with C# types and statements
+nav_order: 2
+description: Write Object Oriented Programming (OOP) code with C#
 ---
 
 ## Credential Title
-### Basic Coding with C#
+### Object Oriented Programming with C#
 This is a foundation credential that prepares holders to undertake non-production-ready software development projects.
 
 ## Outcome
-To earn this [Verifiable Credential](../index) you must be able to write basic code with C#.
+To earn this [Verifiable Credential](../index) you must be able to write Object Oriented Programming (OOP) code with C#.
 
 ## Skill Requirements
 You must be able to :
-- Write basic code using **types**
-- Write basic code using **statements**
+- Write ted Programming (OOP) code using C#
 
 ## Knowledge Requirements
 You must know and understand :
-- C# Types :
-    - string
-    - int
-    - decimal
-    - double
-    - long
-    - bool
-    - DateTime
 
-- Arrays
-
-- C# Statements :
-    - if – else
-    - do - while
-    - for
-    - foreach
+- Classes
+- Objects
+- Methods
+- Inheritance
+- Abstract Class
+- Interfaces
+- Static Classes
 
 
 ## Evidence Requirements
@@ -48,4 +39,4 @@ Your work will be assessed by a personal Assessor assigned to you. The Assessor 
 
 ## Support Materials and Training
 
-You can refer to the following course material : [Foundation : Basic Coding with C#](https://learn.rclapp.com/Learner/Course?id=1) to prepare for this credential. You can attend [Live Events](https://www.meetup.com/cloud-computing-and-net-meetup-group/) that cover the requirements for this credential. In addition, you can learn on your own in the web or in your workplace. 
+You can refer to the following course material : [Foundation : Object Oriented Programming with C#](https://learn.rclapp.com/RCLLearner/Course?id=2) to prepare for this credential. You can attend [Live Events](https://www.meetup.com/cloud-computing-and-net-meetup-group/) that cover the requirements for this credential. In addition, you can learn on your own in the web or in your workplace. 
