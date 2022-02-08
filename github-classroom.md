@@ -19,7 +19,7 @@ In this article, you will learn how to use GitHub classroom to complete coding a
 - You will be provided with a link by your Assessor to accept the assignment on Github classroom
 - Open the link in a web browser
 
-- In GitHub Classroom, click your Identifier (Government ID for your Digital ID) to join the classroom
+- If this is the first time you are doing an assignment, you would need to join the classroom. In GitHub Classroom, click your Identifier (Government ID for your Digital ID) to join the classroom
 
  ![Accept Assignment](/images/accept_assignment.png)
 
