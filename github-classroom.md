@@ -36,17 +36,35 @@ In this article, you will learn how to use GitHub classroom to complete coding a
 ## Clone the Assignment Repository in Visual Studio
 
 - Open Visual Studio on your desktop PC
+
 - In the 'Get started' page, click the 'Clone a repository' selection
+
 - In the online GitHub assignment repository, click on the 'Code' button and in the 'Clone' section copy the 'HTTPS' link
+
+ ![Accept Assignment](/images/clone_project.png)
+
 - In Visual Studio, copy the link into the 'Repository location' text box 
+
 - Create a local path on your desktop PC to save your cloned repository, and select it in the 'Path' text box in Visual Studio
+
+ ![Accept Assignment](/images/clone_project-2.png)
+
 - Click the 'Clone' button when you are done
 
 ## Open the Cloned Repository in Visual Studio
 
-- In the Visual Studio 'Solution Explorer', click on the '.sln' file
+- In the Visual Studio 'Solution Explorer', double click on the '.sln' file
+
+ ![Accept Assignment](/images/project_open.png)
+ 
 - You can now start completing your assignment in the solution
-- After you close the solution, you can subsequently open the solution from your local path where you saved the cloned repository
+
+ ![Accept Assignment](/images/project_open-2.png)
+
+
+- After you close the solution, you can subsequently open the solution again from your local path where you saved the cloned repository
+
+ ![Accept Assignment](/images/project_open-3.png)
 
 ## Completing the Assignment in Visual Studio
 
