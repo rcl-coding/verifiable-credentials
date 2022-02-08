@@ -14,7 +14,7 @@ To earn this [Verifiable Credential](../index) you must be able to write Object 
 
 ## Skill Requirements
 You must be able to :
-- Write ted Programming (OOP) code using C#
+- Write Object Oriented Programming (OOP) code using C#
 
 ## Knowledge Requirements
 You must know and understand :
