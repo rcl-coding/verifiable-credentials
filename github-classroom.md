@@ -19,7 +19,7 @@ In this article, you will learn how to use GitHub classroom to complete coding a
 - You will be provided with a link by your Assessor to accept the assignment on Github classroom
 - Open the link in a web browser
 
-- In GitHub Classroom, click your Identifier (Government ID for your Digital ID)
+- In GitHub Classroom, click your Identifier (Government ID for your Digital ID) to join the classroom
 
  ![Accept Assignment](/images/accept_assignment.png)
 
@@ -35,13 +35,13 @@ In this article, you will learn how to use GitHub classroom to complete coding a
 
 ## Clone the Assignment Repository in Visual Studio
 
-- Open Visual Studio on your desktop PC
-
-- In the 'Get started' page, click the 'Clone a repository' selection
-
 - In the online GitHub assignment repository, click on the 'Code' button and in the 'Clone' section copy the 'HTTPS' link
 
  ![Accept Assignment](/images/clone_project.png)
+
+ - Open Visual Studio on your desktop PC
+
+- In the 'Get started' page, click the 'Clone a repository' selection
 
 - In Visual Studio, copy the link into the 'Repository location' text box 
 
